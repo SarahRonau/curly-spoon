@@ -1,12 +1,10 @@
-# curly-spoon
-# curly-fork
 # homework
 * ~~bulleted lists~~
 * ~~links~~
+  * [My Website](http://www.sarahronau.com)
 * ~~headers~~
 * read an article about md
 * learn how to do a code block in md
 * push to repository
-# finished
-* images
-![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+* ~~images~~
+  * ![cute little nugget](http://www.awesomelycute.com/gallery/2015/05/cute-baby-penguin-8.jpg" Baby Penguin")
