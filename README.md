@@ -4,11 +4,22 @@
   * [My Website](http://www.sarahronau.com)
 * ~~headers~~
 * ~~read an article about md~~
-* learn how to do a code block in md
+* ~~learn how to do a code block in md~~
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+let moonPhase = 'full';
+switch (moonPhase)
+  case 'full':
+  	console.log('Howl!');
+    break;
+  case 'mostly full':
+    console.log('Arms and legs are getting hairier');
+    break;
+  case 'mostly new':
+    console.log('Back on two feet.');
+    break;
+  default:
+  	console.log('Invalid moon phase');
+		break;
 ```
 * ~~push to repository~~
 * ~~images~~
