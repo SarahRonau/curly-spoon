@@ -5,7 +5,8 @@
 * ~~headers~~
 * ~~read an article about md~~
 * ~~learn how to do a code block in md~~
-```
+
+```javascript
 let moonPhase = 'full';
 switch (moonPhase)
   case 'full':
@@ -21,6 +22,7 @@ switch (moonPhase)
   	console.log('Invalid moon phase');
 		break;
 ```
+
 * ~~push to repository~~
 * ~~images~~
   * ![cute little nugget](http://www.awesomelycute.com/gallery/2015/05/cute-baby-penguin-8.jpg)
